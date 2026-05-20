@@ -4,6 +4,8 @@
 
 ### Rule Based Synthetic Data Generation
 
+### Data Replication using Diffusion Approaches
+
 ### Data Replication using Generative Adversarial Networks (GAN)
 
 ### Statistical Data Profile Replication using Copulas 
